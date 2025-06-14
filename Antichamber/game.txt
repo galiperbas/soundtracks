@@ -1,0 +1,5 @@
+Summary: Antichamber is a single-player first-person puzzle-platform video game. Many of the puzzles are based on phenomena that occur within the Impossible Objects created by the game engine, such as passages that lead the player to different locations depending on which way they face, and structures that seem otherwise impossible within normal three-dimensional space. The game includes elements of psychological exploration through brief messages of advice to help the player figure out solutions to the puzzles as well as adages for real life.
+
+Genre: Platform, Puzzle, Adventure, Indie
+
+Theme: Science fiction

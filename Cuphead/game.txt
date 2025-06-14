@@ -1,0 +1,7 @@
+Summary: A port of Cuphead that was released as a part of Tesla’s 10.0 software update. Due to the Tesla hardware of the time, the game only featured the first world of the game.
+
+In December 2022, the port was made obsolete in certain Tesla models due to a software update which adds Steam connectivity.
+
+Genre: Shooter, Platform, Adventure, Indie, Arcade
+
+Theme: Action, Fantasy, Comedy

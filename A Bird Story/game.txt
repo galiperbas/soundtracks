@@ -1,0 +1,5 @@
+Summary: A Bird Story is a simple, surreal short about a boy and a bird with a broken wing. Its sole purpose is to tell a story, and can be viewed as a narrative/animation with interactivity -- but without a line of dialogue. It is a standalone game with its own beginning and endings; but for those who's played To the Moon, the boy eventually grows up to become the next patient in the series.
+
+Genre: Adventure, Indie
+
+Theme: Fantasy

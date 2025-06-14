@@ -1,0 +1,5 @@
+Summary: An action platformer with a combat/interactivity system based on polarity, Outland focuses on a hero who can switch between light and dark forms, an ability he'll need to exploit in order to destroy monsters and avoid attacks. He'll take damage from opposite-colored bullets but will be impervious to those of the same polarity. He'll also only be able to control objects that match his polarity. By switching between forms, he will be able to solve platforming puzzles and crush enemies in this mysterious new land he finds himself in.
+
+Genre: Platform, Strategy, Adventure, Indie
+
+Theme: Action

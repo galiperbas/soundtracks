@@ -1,0 +1,5 @@
+Summary: A remake of the original Layers of Fear and its DLC, as well as a new DLC from the perspective of the painter's wife. This remake in Unreal Engine 5 adds new core mechanics and features to blend the chapters together seamlessly.
+
+Genre: Adventure
+
+Theme: Horror, Survival

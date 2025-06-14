@@ -1,0 +1,5 @@
+Summary: RUST is a 90s and Scythe-inspired project that aims to combine the early wad aesthetics of D!Zone style wads with the modern progression and fast-paced as wads like Scythe.
+
+Genre: Shooter
+
+Theme: Action

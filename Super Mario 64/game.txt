@@ -1,0 +1,7 @@
+Summary: A port of Super Mario 64 included in Super Mario 3D All-Stars, built upon the Shindou Pak Taiou Version and its enhancements, also featuring updated textures and a higher output resolution.
+
+With a timeless control scheme that’s featured in every one of his 3D outings since, Super Mario 64 marked Mario’s glorious debut into the world of 3D. Wall jump, backflip and even fly as you explore paintings around Princess Peach’s castle to collect Power Stars and stop Bowser!
+
+Genre: Platform, Adventure
+
+Theme: Action, Sandbox, Kids

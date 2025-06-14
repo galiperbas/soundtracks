@@ -1,0 +1,5 @@
+Summary: Yu-Gi-Oh! Duel Links is a free-to-play, digital collectible card game developed by Konami for the iOS, Android and Microsoft Windows platforms, based on the Yu-Gi-Oh! Trading Card Game. It features characters from the entire Yu-Gi-Oh! Duel Monsters anime series.
+
+Genre: Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Quiz/Trivia, Adventure, Card & Board Game
+
+Theme: Action, Fantasy, Science fiction

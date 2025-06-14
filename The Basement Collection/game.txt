@@ -1,0 +1,14 @@
+Summary: The Basement Collection is a compilation of Edmund McMillen's Flash games. The games were remade with added features and music tracks.
+
+The games in the collection include:
+- Triachnid (2006), a physics spider simulation game
+- Coil (2008), an experimental game
+- Meat Boy (2008), a Super Meat Boy predecessor
+- Aether (2008), a space adventure game
+- Grey-Matter (2008), an anti-shooter game
+- Spewer (2009), a liquid physics platform game
+- Time Fcuk (2009), a dark puzzle game
+
+Genre: Platform, Strategy, Adventure, Indie
+
+Theme: Action, Fantasy, Comedy

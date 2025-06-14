@@ -1,0 +1,5 @@
+Summary: Race The Sun is a high-speed game that uses simple controls and is set in a procedurally generated world. The goal is to get the highest possible score by racing into the sunset, avoiding obstacles and enemies, and collecting speed boosts and other powerups to help you along the way. You fly a solar-powered craft, and the game ends at sundown, if you can make it that far!
+
+Genre: Racing, Indie, Arcade
+
+Theme: Action

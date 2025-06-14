@@ -1,0 +1,5 @@
+Summary: LittleBigPlanet is a 2009 puzzle platformer video game (with user-generated content) for the PlayStation Portable developed by SCE Cambridge Studio in conjunction with Media Molecule. It is a new entry in the LittleBigPlanet franchise made exclusively for the PSP, featuring a brand new story mode.
+
+Genre: Platform, Puzzle, Adventure
+
+Theme: Action

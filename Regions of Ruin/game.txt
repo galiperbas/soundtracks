@@ -1,0 +1,5 @@
+Summary: Regions of Ruin is a 2D pixel side-scrolling RPG with town-building, where you explore, fight and build into an open world that progressively challenges you and your settlement, and threatens the extinction of the dwarven race.
+
+Genre: Fighting, Platform, Role-playing (RPG), Simulator, Strategy, Adventure, Indie
+
+Theme: Action, Fantasy

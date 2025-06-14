@@ -1,0 +1,5 @@
+Summary: A Game Boy Color port of the Standalone Expansion to Worms 2 of the same name.
+
+Genre: Strategy
+
+Theme: Comedy, Warfare

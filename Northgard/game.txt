@@ -1,0 +1,19 @@
+Summary: Northgard is a strategy game based on Norse mythology in which you control a clan of Vikings vying for the control of a mysterious newfound continent.
+
+- Build your settlement on the newly discovered continent of Northgard
+
+- Assign your vikings to various jobs (Farmer, Warrior, Sailor, Loremaster...)
+
+- Manage your resources carefully and survive harsh winters and vicious foes
+
+- Expand and discover new territory with unique strategic opportunities
+
+- Achieve different victory conditions (Conquest, Fame, Lore, Trading...)
+
+- Play against your friends or against an AI with different difficulty levels and personalities
+
+- Enjoy dedicated servers and grind the ranks to reach the final Norse God rank!
+
+Genre: Real Time Strategy (RTS), Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Indie
+
+Theme: Fantasy, Survival

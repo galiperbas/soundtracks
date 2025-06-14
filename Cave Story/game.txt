@@ -1,0 +1,3 @@
+Genre: Platform, Adventure
+
+Theme: Action, Fantasy

@@ -1,0 +1,5 @@
+Summary: At its core, Space Pirates and Zombies is an action based, skill oriented, top down space combat game. It's similar to the ones we knew and loved in years past, but now using full physics simulation and modern graphics for those oh so pretty explosions. But as you dig deeper, SPAZ becomes much more.
+
+Genre: Role-playing (RPG), Strategy, Adventure, Indie, Arcade
+
+Theme: Action, Science fiction, Sandbox

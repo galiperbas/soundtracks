@@ -1,0 +1,3 @@
+Summary: Your goal is to balance the ball and avoid it from obstacles and from falling down.
+
+Genre: Simulator, Adventure, Indie

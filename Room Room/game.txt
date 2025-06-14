@@ -1,0 +1,5 @@
+Summary: The game controls are pretty simple, but I'll tell you a secret to reward your interest: holding certain buttons will do something useful, specially for speedruning.
+
+Genre: Puzzle
+
+Theme: Action

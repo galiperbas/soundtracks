@@ -1,0 +1,3 @@
+Summary: TIS-100 is an open-ended programming game in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
+
+Genre: Puzzle, Simulator, Indie

@@ -1,0 +1,7 @@
+Summary: Gunpoint is a stealth puzzle game that lets you rewire its levels to trick people. You play a freelance spy who takes jobs from his clients to break into high security buildings and steal sensitive data.
+
+To get past security, you'll need to make creative use of your main gadget: the Crosslink. It lets you see how all the security devices in a level are wired up, and then you can just click and drag with the mouse to wire them differently. So you can connect a lightswitch to a trapdoor, then flick it when a guard walks across to make him fall through.
+
+Genre: Platform, Puzzle, Strategy, Adventure, Indie
+
+Theme: Action, Science fiction, Stealth, Comedy

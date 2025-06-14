@@ -1,0 +1,7 @@
+Summary: Streets of Rogue is a top-down rogue-lite with an emphasis on player agency and freedom. It combines shooting, stealth, and role-playing elements in a procedurally generated city.
+
+Rather than taking place in a dungeon, the game is set in a functioning, procedurally generated city, where complex AI informs denizens from all walks of life, who are just trying to get by in their daily activities. In order to progress, the player will need to accomplish specific mission goals in any way they see fit through use of their special character traits, items, and the environment.
+
+Genre: Shooter, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie
+
+Theme: Action, Stealth, Comedy, Sandbox

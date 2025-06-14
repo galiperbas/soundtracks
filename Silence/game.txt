@@ -1,0 +1,5 @@
+Summary: This is my "oddly named but lovable beast of wad" (kalensar) that replaces Doom 1in the style of Doom the Way Id Did. To ensure vanilla compatibility, I've tested the wad in Chocolate Doom and cleaned up any issues I could find. This wad doesn't try to reinvent the wheel, just maybe grease up the axel a little bit. Also with the levels is a pack of midis I wrote and decided to include for use alongside the levels. That's right, the first 36 level ultimate doom megawad of 2022, and the only limit we removed was your imagination.
+
+Genre: Shooter
+
+Theme: Action

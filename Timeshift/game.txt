@@ -1,0 +1,5 @@
+Summary: Timeshift is a unique take on 2D platformers. Use a saved position and your momentum to escape the Rift!
+
+Genre: Adventure, Indie
+
+Theme: Action

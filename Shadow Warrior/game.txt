@@ -1,0 +1,7 @@
+Summary: Shadow Warrior is a first-person shooter video game developed by 3D Realms and released on May 13, 1997 by GT Interactive. Shadow Warrior was developed using Ken Silverman's Build engine and improved on 3D Realms' previous Build engine game, Duke Nukem 3D. Mark Adams ported Shadow Warrior to Mac OS in August 1997.
+
+The game's improvements included introduction of true room-over-room situations, the use of 3D voxels instead of 2D sprites for weapons and usable inventory items, transparent water, climbable ladders, and assorted vehicles to drive (some armed with weapons). Although ultra-violent, the game emphasized tongue-in-cheek humor and contained some sexual themes (although less blatantly than in Duke Nukem 3D). A combination of Duke Nukem 3D and Shadow Warrior was published by GT Interactive in March 1998, titled East Meets West.
+
+Genre: Fighting, Shooter
+
+Theme: Action, Science fiction, Comedy

@@ -1,0 +1,5 @@
+Summary: A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets friendly inhabitants, fights hostile ones and uncovers the kingdom's history while improving their combat abilities and movement arsenal by fighting bosses and accessing out-of-the-way areas.
+
+Genre: Platform, Adventure, Indie
+
+Theme: Action, Fantasy

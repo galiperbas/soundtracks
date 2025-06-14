@@ -1,0 +1,6 @@
+Summary: Conan Exiles is an online multiplayer survival game set in the lands of Conan the Barbarian. Enter a vast, open-world sandbox and play together with friends and strangers as you build your own home or even a shared city. Survive freezing cold temperatures, explore loot-filled dungeons, develop your character from a lowly peasant to a mighty barbarian, and fight to dominate your enemies in epic siege wars.
+Conan Exiles can be played in full single-player, co-op, or persistent online multiplayer.
+
+Genre: Fighting, Role-playing (RPG), Simulator, Strategy, Adventure
+
+Theme: Action, Fantasy, Survival, Open world

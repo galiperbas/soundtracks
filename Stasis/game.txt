@@ -1,0 +1,5 @@
+Summary: Stasis is a fangame that combines Half-Life, Team Fortress 2, and Inscryption.
+
+Genre: Strategy, Card & Board Game
+
+Theme: Action, Horror

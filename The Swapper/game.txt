@@ -1,0 +1,11 @@
+Summary: The Swapper is a short puzzle platformer where you must complete every puzzle and collect 124 orbs, in groups of 3 and 9 later on, to complete the game.
+
+The game has a tool which lets you create up to 4 clones and switch between them as long as you have a clear line of sight.
+
+The main obstacles for the puzzles are 3 kinds of lights that interfere with the tool in different ways to make the puzzles harder.
+
+Achievements/Trophies are tied to hidden consoles instead of story progress so a guide will most likely be needed to find all 10.
+
+Genre: Platform, Puzzle, Strategy, Adventure, Indie
+
+Theme: Action, Science fiction, Mystery

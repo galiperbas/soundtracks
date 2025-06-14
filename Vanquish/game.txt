@@ -1,0 +1,5 @@
+Summary: This is Vanquish! A top-down pixel art shooter where you play as either an Orc Warrior or a Gnome Magician which have both crashed onto a cursed island.
+
+Genre: Adventure, Indie
+
+Theme: Action

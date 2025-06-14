@@ -1,0 +1,7 @@
+Summary: Barotrauma is a 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter’s moon Europa. The bone-crushing pressure outside the submarine, the strange creatures inhabiting the ocean and the potentially dangerous equipment and machines on board ensure that the tiniest slip can turn the game into a chaotic struggle for survival.
+
+The game is heavily inspired by Space Station 13 and a game concept called Pressure.
+
+Genre: Simulator, Strategy, Adventure, Indie
+
+Theme: Action, Science fiction, Horror, Survival

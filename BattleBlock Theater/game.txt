@@ -1,0 +1,5 @@
+Summary: In BattleBlock Theater, players control a prisoner as they are forced to play through games devised by Hatty Hattington. Controls are simple, with the game largely consisting of running, jumping and punching. Levels are made up of various types of blocks, such as collapsing blocks, sticky walls, bouncy volcanic rocks and deadly spikes, and also feature hazards such as water and deadly creatures.
+
+Genre: Platform, Puzzle, Adventure, Indie
+
+Theme: Action, Comedy

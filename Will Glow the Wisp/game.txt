@@ -1,0 +1,5 @@
+Summary: Will Glow the Wisp is a physics based abstract platformer without platforms, with a unique particle based theme and movement mechanics. It is best described as a mix of Super Meat Boy and Geometry Wars.
+
+Genre: Indie, Arcade
+
+Theme: Action

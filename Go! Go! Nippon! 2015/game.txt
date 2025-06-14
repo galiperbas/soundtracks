@@ -1,0 +1,5 @@
+Summary: A standalone expansion of Go! Go! Nippon! that nearly doubles the content of the original game––adding new locations like Tokyo Skytree, Odaiba, Comiket, and more! The expansion renders the game in 720p widescreen format, with both new and old CGs in the new aspect ratio.
+
+Genre: Adventure, Visual Novel
+
+Theme: Educational, Romance

@@ -1,0 +1,6 @@
+Summary: This compilation combines the Game Boy versions of:
+
+- Mortal Kombat
+- Mortal Kombat II
+
+Genre: Fighting

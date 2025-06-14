@@ -1,0 +1,5 @@
+Summary: Dino Squad is a third-person PvP-shooter where you can play as a dinosaur armed to the teeth. In every match the player deploys their character at one of the points on the map. The foal is to destroy the enemies, capture their towers, and, most importantly, stay alive.
+
+Genre: Shooter
+
+Theme: Action, Science fiction

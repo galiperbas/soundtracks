@@ -1,0 +1,6 @@
+Summary: The PlayStation port features a different introduction cutscene and some differences in certain levels.
+The ability to research specific items does not exist in hits port, instead new items are being made available in a fixed order, following mission completions.
+
+Genre: Strategy, Tactical
+
+Theme: Action, Science fiction

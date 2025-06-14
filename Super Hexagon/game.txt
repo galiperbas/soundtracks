@@ -1,0 +1,5 @@
+Summary: Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.
+
+Genre: Music, Indie, Arcade
+
+Theme: Action

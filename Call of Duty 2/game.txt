@@ -1,0 +1,5 @@
+Summary: A port of Call of Duty 2 compatible with an array of Windows Mobile based smartphones and pocket PCs.
+
+Genre: Shooter
+
+Theme: Warfare

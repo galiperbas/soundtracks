@@ -1,0 +1,5 @@
+Summary: Everspace is an action-focused single-player space shooter with rock solid 6DOF controls combining roguelike elements with top-notch visuals and a captivating non-linear story as well as VR support in the final version.
+
+Genre: Fighting, Shooter, Simulator, Indie
+
+Theme: Action, Science fiction

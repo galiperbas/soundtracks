@@ -1,0 +1,7 @@
+Summary: Hell has invaded Earth, and to save it, you must battle mightier demons with even more powerful weapons. This beloved sequel to the groundbreaking Doom (1993) introduced players to the brutal Super Shotgun, the infamous Icon of Sin boss, and more intense FPS action.
+
+A remaster of Doom II made in the KEX Engine, community-published mod support, original midi soundtrack or the modern IDKFA version by Andrew Hulshult (which includes new recordings), Improved performance with multithreaded rendering, BOOM source compatibility, accessibility options and translated into eight new languages.
+
+Genre: Shooter
+
+Theme: Action, Science fiction, Horror

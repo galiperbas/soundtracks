@@ -1,0 +1,8 @@
+Summary: This bundle contains:
+
+- Overcooked!
+- Overcooked! 2
+
+Genre: Strategy, Arcade
+
+Theme: Business

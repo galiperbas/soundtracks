@@ -1,0 +1,5 @@
+Summary: Splitgate is a free-to-play, fast-paced multiplayer shooter that features player-controlled portals. This sci-fi shooter takes the FPS genre to a new dimension with its portal mechanics, delivering high-flying, multi-dimensional combat. Evoking memories of the most revered shooters of the past two decades, Splitgate embraces the classic and familiar feel of close-quarters combat while adding a unique twist.
+
+Genre: Shooter
+
+Theme: Action

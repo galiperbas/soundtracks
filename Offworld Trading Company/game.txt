@@ -1,0 +1,9 @@
+Summary: Offworld Trading Company is a real-time strategy game in which money, not firepower, is the player's weapon. Players lead their developing companies in cutthroat economic warfare against other companies looking to become the dominant economic power on Mars.
+
+Loosely inspired by such classics as M.U.L.E., Offworld Trading Company forces players to make tough choices on what resources to acquire, what goods to build and sell, how to interact with the planet's thriving underworld, and when and what stocks to acquire.
+
+Players compete against up to seven other AI- or player-controlled companies. The game is won when one player ultimately acquires all the shares of their competitors, thereby wresting control of the entire planet’s economy.
+
+Genre: Real Time Strategy (RTS), Simulator, Strategy, Indie
+
+Theme: Science fiction

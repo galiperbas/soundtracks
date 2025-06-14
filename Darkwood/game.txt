@@ -1,0 +1,5 @@
+Summary: An old RPG for classic macs. Nothing much to it, you go into an arena and fight monsters.
+
+Genre: Role-playing (RPG), Indie
+
+Theme: Fantasy

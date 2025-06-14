@@ -1,0 +1,5 @@
+Summary: Robocraft is a sandbox building and vehicular combat game where players get to create their own robots/vehicles and use them to fight others. The wide variety of components allows for many types of creations, including ground vehicles, planes and hover-tanks.
+
+Genre: Shooter, Role-playing (RPG), Simulator, Indie
+
+Theme: Action, Science fiction, Sandbox, Warfare

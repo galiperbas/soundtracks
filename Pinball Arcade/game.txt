@@ -1,0 +1,5 @@
+Summary: Pinball Arcade by FarSight Studios features exact recreations of the all-time greatest pinball tables from Williams, Bally, Stern Pinball, and Gottlieb together in one game.
+
+Every flipper, bumper, sound effect, and display pixel has been painstakingly emulated in astonishing detail.
+
+Genre: Simulator, Pinball, Arcade

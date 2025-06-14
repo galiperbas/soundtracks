@@ -1,0 +1,5 @@
+Summary: Lethal League is a competitive projectile fighting game where you have to hit an anti-gravity ball into the face of your opponent to win. The ball speeds up with every strike, up to explosively extreme velocities. Play intense local matches with friends and foes, challenge yourself in the singleplayer mode or battle it out online.
+
+Genre: Fighting, Sport, Indie, Arcade
+
+Theme: Action

@@ -1,0 +1,5 @@
+Summary: A top-down adventure game adaptation of Dante Alighieri's "The Divine Comedy" in which the player must guide their character through hell and purgatory to reach paradise.
+
+Genre: Puzzle, Adventure
+
+Theme: Action, Fantasy

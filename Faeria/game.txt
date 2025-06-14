@@ -1,0 +1,7 @@
+Summary: Faeria is a digital collectible card and turn-based strategy game that takes place on a dynamic playing board set in a fantasy universe. Players in Faeria battle one-on-one against other players or computer-controlled opponents. Battles take place on a empty hex board and the goal for each player is to reduce the opponent's avatar health to zero before their own is exhausted. Part of the game's strategy is managing the placement of tiles on the board to create routes for one's creatures to reach the opponent while limiting progress from the opponent.
+
+Winning games earns in-game currency that can be used to purchase new packs of cards, from which the player can then customize their deck. Support for the iOS and Android versions of the game were dropped in 2018 to focus on the PC version. The game also moved out of its free-to-play model and announced plans for card expansion DLCs around the same time.
+
+Genre: Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie, Card & Board Game
+
+Theme: Fantasy

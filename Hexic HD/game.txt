@@ -1,0 +1,3 @@
+Summary: Hexic HD is the next puzzle hit from Alexey Pajitnov, the original creator of "Tetris." Rotate groups of three hexes to form clusters of like-colored tiles. Use bonus pieces and starflowers to boost your score and discover new ways to play. But watch out for bombs - clear them before they explode or it's game over.
+
+Genre: Puzzle

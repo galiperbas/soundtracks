@@ -1,0 +1,5 @@
+Summary: Orcs Must Die! is a strategy video game developed by Robot Entertainment. It is a Tower defense game that eschews the traditional top-down view of similar games, instead using a third-person action-oriented viewpoint.
+
+Genre: Shooter, Strategy, Indie
+
+Theme: Action

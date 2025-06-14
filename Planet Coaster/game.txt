@@ -1,0 +1,5 @@
+Summary: Planet Coaster is a construction and management simulation video game. Similar to its spiritual predecessor, RollerCoaster Tycoon 3 (also developed by Frontier), the game allows players to build different theme park rides and roller-coasters.
+
+Genre: Simulator, Strategy
+
+Theme: Action, Sandbox

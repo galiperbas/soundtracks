@@ -1,0 +1,5 @@
+Summary: I am Bread is an action-adventure simulation game. It puts the player in control of a slice of bread and the aim of each level is to turn the bread into toast. If the bread, before becoming toast, touches objects the "edible" meter will go down. Objects and substances that can make this go down can be water and the floor. To control the bread the player must use the arrow keys or an analog stick. The levels are based on the seven days of the week.
+
+Genre: Platform, Puzzle, Simulator, Adventure, Indie
+
+Theme: Action, Comedy, Kids

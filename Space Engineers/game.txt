@@ -1,0 +1,7 @@
+Summary: Space Engineers is a sandbox game about engineering, construction and maintenance of space works. Players build space ships and space stations of various sizes and utilization (civil and military), pilot ships and perform asteroid mining.
+
+Space Engineers utilizes a realistic volumetric-based physics engine: all objects can be assembled, disassembled, damaged and destroyed.
+
+Genre: Simulator, Strategy, Adventure, Indie
+
+Theme: Action, Science fiction, Survival, Sandbox, Open world, Warfare

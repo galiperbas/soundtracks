@@ -1,0 +1,5 @@
+Summary: Tricky Towers is a multiplayer physics-based tower building game. In a game of Tricky Towers you stack your bricks to create a stable tower and try to topple those of your opponents. To spice it up you can cast magic to support your structure and fend off the dark spells of your rivals in this frantic physics party game.
+
+Genre: Puzzle, Indie, Arcade
+
+Theme: Action, Kids, Party

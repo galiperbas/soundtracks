@@ -1,0 +1,8 @@
+Summary: The SNES version of Wolfenstein 3D has modified episodes and storyline, along with heavy censorship. The changes make this version a different game from the original DOS game, and was used as the basis for the Atari Jaguar, Macintosh, 3DO and Apple IIgs ports.
+A Macintosh version would later unite both the SNES storyline and the original DOS storyline in a single release.
+
+The Japanese version has even more censorship than the Western release, with a storyline changed even further.
+
+Genre: Shooter
+
+Theme: Action

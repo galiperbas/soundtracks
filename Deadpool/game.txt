@@ -1,0 +1,9 @@
+Summary: Deadpool is a Ninja Gaiden hack for the NES.
+
+This patch will change nearly every aspect of the original game to convert it on his own adventure.
+
+Think of it as a Ninja Gaiden expansion, it’s an updated game, more stages, more enemies, more weapons, new music, animated backgrounds, parallax scrolling, language selection, title menu and more.
+
+Genre: Platform
+
+Theme: Action

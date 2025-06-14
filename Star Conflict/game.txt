@@ -1,0 +1,5 @@
+Summary: Star Conflict is a Free to Play online space combat game featuring multiple Objective-Based Team Gameplay modes, three main factions with 2 respective sub factions each, and an array of ship customization and three types of ships complete with there own ship tree and skill tree.
+
+Genre: Shooter, Simulator
+
+Theme: Action, Science fiction

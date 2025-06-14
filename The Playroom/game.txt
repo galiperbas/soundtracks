@@ -1,0 +1,3 @@
+Summary: An educational game which is set in a child's bedroom.
+
+Theme: Educational, Kids

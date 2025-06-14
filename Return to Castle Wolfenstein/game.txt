@@ -1,0 +1,5 @@
+Summary: Return to Castle Wolfenstein is a first-person shooter and a reboot of Wolfenstein 3D. The player's arsenal includes among others a Luger, MP 40 submachine gun, Mauser rifle with sniper scope, flamethrower, dynamite and grenades. The game also features a multiplayer component in which players are split into Axis and Allies sides with each a set of objectives to complete.
+
+Genre: Shooter
+
+Theme: Action, Fantasy, Science fiction, Horror, Historical, Stealth

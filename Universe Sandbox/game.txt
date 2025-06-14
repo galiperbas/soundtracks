@@ -1,0 +1,5 @@
+Summary: Create and destroy on an unimaginable scale... with a space simulator that merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet. Includes VR support for HTC Vive, Oculus Rift+Touch, and Windows Mixed Reality.
+
+Genre: Simulator, Indie
+
+Theme: Sandbox, Educational, Kids, Open world

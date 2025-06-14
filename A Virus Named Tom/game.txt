@@ -1,0 +1,5 @@
+Summary: An Action-puzzler. The puzzle comes from rearrange circuits to spread the virus. The Action comes from dodging anti-virus drones while doing it. It's one of the few puzzle games out there where you can play co-operatively (with up to 3 friends). But if you tire of working together, there is a battle mode where you can take on your friends to see who is the supreme virus.
+
+Genre: Puzzle, Strategy, Indie, Arcade
+
+Theme: Action, Science fiction

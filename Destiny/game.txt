@@ -1,0 +1,3 @@
+Summary: Destiny is a fantasy-themed graphic adventure game with RPG elements. The game is played via game cursor, and all available commands are on the right hand side of the screen. The player moves by selecting north, south, east, or west. The player must select individual areas of the screen in order to search or look at objects. Graphical display of the player's location appears on the main screen.
+
+Genre: Role-playing (RPG), Adventure

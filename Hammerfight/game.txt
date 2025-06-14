@@ -1,0 +1,5 @@
+Summary: Hammerfight is a 2D physics-based action game where you control an aircraft with your mouse. Your aircraft can be equipped with various slashing and crushing weapons, which are all effective at crushing through armor and slamming them into a wall. There are a large variety of weapons to unlock, including swords, hammers, maces, and even guns. There is an extensive campaign and arena and hunt game modes.
+
+Genre: Fighting, Hack and slash/Beat 'em up, Indie
+
+Theme: Action, Fantasy, Historical

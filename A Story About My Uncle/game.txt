@@ -1,0 +1,7 @@
+Summary: A Story About My Uncle is a non-violent First-Person platform adventure game built in the Unreal Engine. It is a story about a boy who searches for his lost uncle and ends up in a world he couldn’t imagine existed.
+
+The movement through the world in A Story About My Uncle is a crucial part of its core gameplay, focusing on swinging yourself through caverns with a grappling hook mechanic that gives the player a wonderful sense of speed and freedom. Soar through a game world with a unique art style and a mysterious story unraveling slowly before you.
+
+Genre: Platform, Puzzle, Adventure, Indie
+
+Theme: Action, Fantasy, Science fiction

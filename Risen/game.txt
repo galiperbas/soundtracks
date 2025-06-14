@@ -1,0 +1,5 @@
+Summary: Port of the cult RPG with full gamepad controls and reworked user interface.
+
+Genre: Role-playing (RPG), Adventure
+
+Theme: Action, Historical, Open world

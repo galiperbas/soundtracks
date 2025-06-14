@@ -1,0 +1,5 @@
+Summary: Samorost is a short point-and-click adventure game. The goal is to help the little space gnome save his home asteroid from a collision with another asteroid by solving diverse puzzles.
+
+Genre: Point-and-click, Puzzle, Adventure, Indie
+
+Theme: Fantasy

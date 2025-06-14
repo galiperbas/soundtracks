@@ -1,0 +1,5 @@
+Summary: A small, fast-paced game inspired by SEGA’s "Fantasy Zone" series. Play through four worlds in frenetic arcade action as you help the hero, Opbot, evade aliens, enemies, and things from another dimension on their way to freedom!
+
+Genre: Shooter, Arcade
+
+Theme: Action, Science fiction

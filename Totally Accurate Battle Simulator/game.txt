@@ -1,0 +1,5 @@
+Summary: A physics based medieval battle simulator which lets you pit wacky waving armies against each other. In Totally Accurate Battle Simulator you pit waving arm men against each other and watch them fight it out.
+
+Genre: Fighting, Simulator, Strategy, Indie
+
+Theme: Action, Comedy, Warfare

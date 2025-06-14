@@ -1,0 +1,3 @@
+Summary: Siege Hero is an Angry Birds-style physics puzzle game in which the player has to destroy buildings to kill bad guys using as few throws as possible. At the same time, the player must make sure that the peasants or maidens remain unharmed.
+
+Genre: Puzzle, Arcade

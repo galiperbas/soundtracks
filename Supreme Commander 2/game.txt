@@ -1,0 +1,5 @@
+Summary: Supreme Commander 2 is a real-time strategy (RTS) video game. In both the skirmish and multiplayer modes, players start out with an Armored Command Unit (ACU), which is a large, powerful, construction-capable unit, as their avatar on the battlefield. They build mass extractors and power generators, which produce mass and energy, along with research facilities that produce research points faster. The ultimate aim of the game is to destroy the opponents' ACUs.
+
+Genre: Real Time Strategy (RTS), Simulator, Strategy
+
+Theme: Science fiction

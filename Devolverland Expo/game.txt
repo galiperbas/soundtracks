@@ -1,0 +1,5 @@
+Summary: Devolverland Expo is a first-person 'marketing simulator' set within an abandoned convention center after the annual Devolver Digital game expo was mysteriously canceled. Break into the convention center and avoid the advanced security systems to watch and retrieve all the trailers, gameplay demo videos, and other secrets lost in the expo's cancellation.
+
+Genre: Shooter, Simulator, Adventure, Indie
+
+Theme: Action

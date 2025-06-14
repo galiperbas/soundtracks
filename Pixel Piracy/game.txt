@@ -1,0 +1,6 @@
+Summary: Pixel Piracy is a side-scrolling 2d, real time strategy/sandbox/simulation game created by indie developer Vitali Kirpu and produced by Alexander Poysky.
+In the game, the player leads the life of a pirate captain. Recruit a crew, outfit and customize your ship and set sail on the open seas. There you’ll use any combination of aggression, diversion and trade to become the most infamous pirate crew of the seven seas! You can raid, pillage and plunder everything in your path, divert and lie to get what you want or trade for a quick buck. Remember to be careful though, death is everywhere and quite permanent! Adventure awaits…
+
+Genre: Platform, Role-playing (RPG), Simulator, Strategy, Adventure, Indie
+
+Theme: Action, Sandbox, Open world

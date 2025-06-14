@@ -1,0 +1,8 @@
+Summary: A gameplay-altering mod that changes the slow pacing of the base game, to a more fast-paced action-horror shooter. The mod attempts to completely overhaul the entire game with new monsters, rebalanced weapons, rebalanced monster stats, better graphics, new gameplay features, and much more.
+
+There are 2 versions of the mod:
+Vanilla Doom 3 & Doom 3: RoE.
+
+Genre: Shooter
+
+Theme: Action, Horror

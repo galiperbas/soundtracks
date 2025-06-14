@@ -1,0 +1,3 @@
+Genre: Platform, Puzzle
+
+Theme: Action

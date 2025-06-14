@@ -1,0 +1,5 @@
+Summary: Deeper and deeper into an infinite basement of increasingly difficult enemies, how deep can you go? Pressure is a simple, high-score based arcade FPS with easy to learn but rewarding projectile mechanics. Search the maze-like floors for the green zone to drop into the next level and receive half your health back. Chaining combos of kills, hitting long range shots or bouncing shots off walls into enemies will also heal you. Enemies will hit harder and increase their spawns as you reach deeper and deeper floors. Watch out for harder enemy types as you go deeper.
+
+Genre: Shooter, Indie
+
+Theme: Action, Survival

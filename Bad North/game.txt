@@ -1,0 +1,5 @@
+Summary: "Bad North is a minimalistic real-time tactics roguelite game that combines a charming aesthetic and simple, accessible controls with a surprisingly deep combat simulation."
+
+Genre: Puzzle, Real Time Strategy (RTS), Simulator, Strategy, Adventure, Indie
+
+Theme: Action, Historical, Warfare

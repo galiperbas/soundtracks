@@ -1,0 +1,5 @@
+Summary: Jazzpunk is a single-player, first-person adventure game, focusing on exploration and comedy over puzzle-solving. Each mission has one central objective, but the player is free to explore the game world at their own pace, which is populated with a large number of interactive NPCs, each with their own action or gag. Mini-games, including mini-golf, a Frogger clone, and a version of Duck Hunt in which the player pelts cardboard ducks with slices of bread from a toaster, also feature prominently in the game's storyline.
+
+Genre: Puzzle, Adventure, Indie
+
+Theme: Action, Comedy

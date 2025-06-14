@@ -1,0 +1,5 @@
+Summary: Sonic Adventure 2, even though it has the same name, it is actually a remaster for the original Sonic Adventure 2, with updated graphics and the assets from Sonic Adventure 2: Battle.
+
+Genre: Platform, Adventure
+
+Theme: Action, Science fiction

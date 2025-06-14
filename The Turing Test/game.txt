@@ -1,0 +1,5 @@
+Summary: The Turing Test is a first person puzzler that explores the phenomena of consciousness and challenges the meaning of human intuition. Take control of Ava Turing, an engineer for the International Space Agency (ISA), and progress through a narrated story of introspection and morality whilst uncovering the hidden mysteries of Europa.
+
+Genre: Puzzle, Adventure
+
+Theme: Science fiction

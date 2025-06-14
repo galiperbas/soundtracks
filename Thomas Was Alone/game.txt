@@ -1,0 +1,5 @@
+Summary: Thomas Was Alone is an indie minimalist 2D platformer about friendship and jumping and floating and anti-gravity. Guide a group of rectangles through a series of obstacles, using their different skills together to get to the end of each environment.
+
+Genre: Platform, Puzzle, Adventure, Indie
+
+Theme: Action, Drama

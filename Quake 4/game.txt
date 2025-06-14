@@ -1,0 +1,5 @@
+Summary: Quake 4 is a action shooter game which serves as the another chapter in the Quake series.
+
+Genre: Shooter
+
+Theme: Action, Science fiction, Horror

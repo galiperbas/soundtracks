@@ -1,0 +1,5 @@
+Summary: Sonic CD (also known as Sonic CD 2011) is a remaster of the original game, adding many new features like widescreen support, improved controls, access to both American and Japanese soundtracks and Tails as an unlockable playable character.
+
+Genre: Platform, Adventure
+
+Theme: Action, Fantasy, Science fiction

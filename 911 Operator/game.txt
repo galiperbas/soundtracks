@@ -1,0 +1,5 @@
+Summary: 911 Operator is a game about the difficult work of people that manage emergency lines and services. Main task is to answer incoming calls and to react properly - give first aid instructions, advise, dispatch correct number of firemen / police / ambulances, or sometimes just ignore the call.
+
+Genre: Simulator, Strategy, Indie
+
+Theme: Business
